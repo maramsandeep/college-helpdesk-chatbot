@@ -182,8 +182,3 @@ export DB_NAME="college_helpdesk"
 ## 📜 License
 
 MIT – free to use, modify, and share.
-
-```
-
----
-
